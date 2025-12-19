@@ -50756,7 +50756,7 @@ struct retro_core_options_v2 options_pl = {
 /* RETRO_LANGUAGE_PT_BR */
 
 #define CATEGORY_GB_LINK_LABEL_PT_BR NULL
-#define CATEGORY_GB_LINK_INFO_0_PT_BR "Altera as configurações de Game Link (multijogador) em rede."
+#define CATEGORY_GB_LINK_INFO_0_PT_BR "Altera as configurações do Game Link (multijogador) em rede."
 #define GAMBATTE_GB_COLORIZATION_LABEL_PT_BR "Colorização do GB"
 #define GAMBATTE_GB_COLORIZATION_INFO_0_PT_BR "Ativa a coloração de jogos de Game Boy. \"Automática\" seleciona a paleta mais colorida/adequada. \"GBC\" seleciona a paleta de Game Boy Color especifica do jogo caso exista, senão existir, \"GBC — Verde Escuro\". \"SGB\" seleciona a paleta de Super Game Boy especifica do jogo caso exista, senão existir, \"SGB — 1A\". \"Interna\" usa a configuração \"Paleta interna\". \"Personalizada\" carrega a paleta personalizada no diretório do sistema."
 #define OPTION_VAL_AUTO_PT_BR "Automática"
