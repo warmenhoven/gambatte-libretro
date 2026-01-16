@@ -51190,7 +51190,7 @@ struct retro_core_options_v2 options_pl = {
 #define GAMBATTE_DARK_FILTER_LEVEL_LABEL_PT_BR "Nível do filtro escuro (%)"
 #define GAMBATTE_DARK_FILTER_LEVEL_INFO_0_PT_BR "Ativa a redução de brilho. Pode ser usado para evitar reflexos/cansaço visual ao jogar em fundos brancos, que foram planejados para a tela de GBC sem retroiluminação e, portanto, podem apresentar um brilho desconfortante em uma tela moderna com retroiluminação."
 #define GAMBATTE_MIX_FRAMES_LABEL_PT_BR "Fusão entre quadros"
-#define GAMBATTE_MIX_FRAMES_INFO_0_PT_BR "Simula o efeito fantasma da tela LCD.\n\"Simples\": mistura metade dos quadros anterior e seguinte.\n\"Efeito fantasma do LCD\": simula os tempos naturais de resposta de uma tela de LCD, combinando vários quadros armazenados na memória intermédia (buffer).\nA fusão \"Simples\" é necessária em jogos que precisam do efeito fantasma do LCD para exibir transparência (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS etc.)."
+#define GAMBATTE_MIX_FRAMES_INFO_0_PT_BR "Simula o efeito fantasma da tela LCD.\n\"Simples\": mistura metade dos quadros anterior e seguinte.\n\"Efeito fantasma do LCD\": simula os tempos naturais de resposta de uma tela de LCD, combinando vários quadros armazenados no buffer.\nA fusão \"Simples\" é necessária em jogos que precisam do efeito fantasma do LCD para exibir transparência (Wave Race, Ballistic, Chikyuu Kaihou Gun ZAS etc.)."
 #define OPTION_VAL_MIX_PT_BR "Simples"
 #define OPTION_VAL_LCD_GHOSTING_PT_BR "Efeito fantasma do LCD (detalhado)"
 #define OPTION_VAL_LCD_GHOSTING_FAST_PT_BR "Efeito fantasma do LCD (rápido)"
